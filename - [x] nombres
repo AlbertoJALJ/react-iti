@@ -1,0 +1,21 @@
+    - [x] nombres
+    - [x] apellido_paterno
+    - [x] apellido_materno
+    - [x] fecha_nacimiento
+    - [x] genero
+    - [x] nacionalidad
+    - [x] curp
+    - [x] rfc
+    - [x] correo electrónico
+    - [x] telefono
+    - [x] estado_civil
+    - [x] beca
+    - [x] lengua extranjera
+    - [ ] vive_con
+    - [ ] depende_de
+    - [x] numero_control
+    - [x] estilo_aprendizaje
+    - [x] comunidad_indigena  
+    - [x] carrera
+    - [ ] status
+    - [ ] username
